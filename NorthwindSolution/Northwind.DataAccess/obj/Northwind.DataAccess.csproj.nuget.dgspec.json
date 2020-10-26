@@ -1,0 +1,261 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Development\\BackEnd\\Northwind\\NorthwindSolution\\Northwind.DataAccess\\Northwind.DataAccess.csproj": {}
+  },
+  "projects": {
+    "C:\\Development\\BackEnd\\Northwind\\NorthwindSolution\\Northwind.DataAccess\\Northwind.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Development\\BackEnd\\Northwind\\NorthwindSolution\\Northwind.DataAccess\\Northwind.DataAccess.csproj",
+        "projectName": "Northwind.DataAccess",
+        "projectPath": "C:\\Development\\BackEnd\\Northwind\\NorthwindSolution\\Northwind.DataAccess\\Northwind.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Maverick\\.nuget\\packages\\",
+        "outputPath": "C:\\Development\\BackEnd\\Northwind\\NorthwindSolution\\Northwind.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Maverick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Development\\BackEnd\\Northwind\\NorthwindSolution\\Northwind.Repositories\\Northwind.Repositories.csproj": {
+                "projectPath": "C:\\Development\\BackEnd\\Northwind\\NorthwindSolution\\Northwind.Repositories\\Northwind.Repositories.csproj"
+              },
+              "C:\\Development\\BackEnd\\Northwind\\NorthwindSolution\\Northwind.UnitOfWork\\Northwind.UnitOfWork.csproj": {
+                "projectPath": "C:\\Development\\BackEnd\\Northwind\\NorthwindSolution\\Northwind.UnitOfWork\\Northwind.UnitOfWork.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "Dapper.Contrib": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Development\\BackEnd\\Northwind\\NorthwindSolution\\Northwind.Models\\Northwind.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Development\\BackEnd\\Northwind\\NorthwindSolution\\Northwind.Models\\Northwind.Models.csproj",
+        "projectName": "Northwind.Models",
+        "projectPath": "C:\\Development\\BackEnd\\Northwind\\NorthwindSolution\\Northwind.Models\\Northwind.Models.csproj",
+        "packagesPath": "C:\\Users\\Maverick\\.nuget\\packages\\",
+        "outputPath": "C:\\Development\\BackEnd\\Northwind\\NorthwindSolution\\Northwind.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Maverick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Development\\BackEnd\\Northwind\\NorthwindSolution\\Northwind.Repositories\\Northwind.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Development\\BackEnd\\Northwind\\NorthwindSolution\\Northwind.Repositories\\Northwind.Repositories.csproj",
+        "projectName": "Northwind.Repositories",
+        "projectPath": "C:\\Development\\BackEnd\\Northwind\\NorthwindSolution\\Northwind.Repositories\\Northwind.Repositories.csproj",
+        "packagesPath": "C:\\Users\\Maverick\\.nuget\\packages\\",
+        "outputPath": "C:\\Development\\BackEnd\\Northwind\\NorthwindSolution\\Northwind.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Maverick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Development\\BackEnd\\Northwind\\NorthwindSolution\\Northwind.Models\\Northwind.Models.csproj": {
+                "projectPath": "C:\\Development\\BackEnd\\Northwind\\NorthwindSolution\\Northwind.Models\\Northwind.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Development\\BackEnd\\Northwind\\NorthwindSolution\\Northwind.UnitOfWork\\Northwind.UnitOfWork.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Development\\BackEnd\\Northwind\\NorthwindSolution\\Northwind.UnitOfWork\\Northwind.UnitOfWork.csproj",
+        "projectName": "Northwind.UnitOfWork",
+        "projectPath": "C:\\Development\\BackEnd\\Northwind\\NorthwindSolution\\Northwind.UnitOfWork\\Northwind.UnitOfWork.csproj",
+        "packagesPath": "C:\\Users\\Maverick\\.nuget\\packages\\",
+        "outputPath": "C:\\Development\\BackEnd\\Northwind\\NorthwindSolution\\Northwind.UnitOfWork\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Maverick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Development\\BackEnd\\Northwind\\NorthwindSolution\\Northwind.Repositories\\Northwind.Repositories.csproj": {
+                "projectPath": "C:\\Development\\BackEnd\\Northwind\\NorthwindSolution\\Northwind.Repositories\\Northwind.Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

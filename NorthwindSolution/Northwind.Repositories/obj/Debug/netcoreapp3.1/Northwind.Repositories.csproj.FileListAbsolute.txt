@@ -1,0 +1,12 @@
+C:\Development\BackEnd\Northwind\NorthwindSolution\Northwind.Repositories\bin\Debug\netcoreapp3.1\Northwind.Repositories.deps.json
+C:\Development\BackEnd\Northwind\NorthwindSolution\Northwind.Repositories\bin\Debug\netcoreapp3.1\Northwind.Repositories.dll
+C:\Development\BackEnd\Northwind\NorthwindSolution\Northwind.Repositories\bin\Debug\netcoreapp3.1\Northwind.Repositories.pdb
+C:\Development\BackEnd\Northwind\NorthwindSolution\Northwind.Repositories\bin\Debug\netcoreapp3.1\Northwind.Models.dll
+C:\Development\BackEnd\Northwind\NorthwindSolution\Northwind.Repositories\bin\Debug\netcoreapp3.1\Northwind.Models.pdb
+C:\Development\BackEnd\Northwind\NorthwindSolution\Northwind.Repositories\obj\Debug\netcoreapp3.1\Northwind.Repositories.csprojAssemblyReference.cache
+C:\Development\BackEnd\Northwind\NorthwindSolution\Northwind.Repositories\obj\Debug\netcoreapp3.1\Northwind.Repositories.AssemblyInfoInputs.cache
+C:\Development\BackEnd\Northwind\NorthwindSolution\Northwind.Repositories\obj\Debug\netcoreapp3.1\Northwind.Repositories.AssemblyInfo.cs
+C:\Development\BackEnd\Northwind\NorthwindSolution\Northwind.Repositories\obj\Debug\netcoreapp3.1\Northwind.Repositories.csproj.CoreCompileInputs.cache
+C:\Development\BackEnd\Northwind\NorthwindSolution\Northwind.Repositories\obj\Debug\netcoreapp3.1\Northwind.Repositories.csproj.CopyComplete
+C:\Development\BackEnd\Northwind\NorthwindSolution\Northwind.Repositories\obj\Debug\netcoreapp3.1\Northwind.Repositories.dll
+C:\Development\BackEnd\Northwind\NorthwindSolution\Northwind.Repositories\obj\Debug\netcoreapp3.1\Northwind.Repositories.pdb

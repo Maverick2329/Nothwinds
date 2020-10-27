@@ -9,7 +9,11 @@ C:\Development\BackEnd\Northwind\NorthwindSolution\Northwind.WebAPI\bin\Debug\ne
 C:\Development\BackEnd\Northwind\NorthwindSolution\Northwind.WebAPI\bin\Debug\netcoreapp3.1\Northwind.WebAPI.pdb
 C:\Development\BackEnd\Northwind\NorthwindSolution\Northwind.WebAPI\bin\Debug\netcoreapp3.1\Dapper.dll
 C:\Development\BackEnd\Northwind\NorthwindSolution\Northwind.WebAPI\bin\Debug\netcoreapp3.1\Dapper.Contrib.dll
+C:\Development\BackEnd\Northwind\NorthwindSolution\Northwind.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Development\BackEnd\Northwind\NorthwindSolution\Northwind.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Development\BackEnd\Northwind\NorthwindSolution\Northwind.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 C:\Development\BackEnd\Northwind\NorthwindSolution\Northwind.WebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Development\BackEnd\Northwind\NorthwindSolution\Northwind.WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 C:\Development\BackEnd\Northwind\NorthwindSolution\Northwind.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
 C:\Development\BackEnd\Northwind\NorthwindSolution\Northwind.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
 C:\Development\BackEnd\Northwind\NorthwindSolution\Northwind.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
@@ -26,8 +30,6 @@ C:\Development\BackEnd\Northwind\NorthwindSolution\Northwind.WebAPI\bin\Debug\ne
 C:\Development\BackEnd\Northwind\NorthwindSolution\Northwind.WebAPI\obj\Debug\netcoreapp3.1\Northwind.WebAPI.csprojAssemblyReference.cache
 C:\Development\BackEnd\Northwind\NorthwindSolution\Northwind.WebAPI\obj\Debug\netcoreapp3.1\Northwind.WebAPI.AssemblyInfoInputs.cache
 C:\Development\BackEnd\Northwind\NorthwindSolution\Northwind.WebAPI\obj\Debug\netcoreapp3.1\Northwind.WebAPI.AssemblyInfo.cs
-C:\Development\BackEnd\Northwind\NorthwindSolution\Northwind.WebAPI\obj\Debug\netcoreapp3.1\Northwind.WebAPI.csproj.CoreCompileInputs.cache
-C:\Development\BackEnd\Northwind\NorthwindSolution\Northwind.WebAPI\obj\Debug\netcoreapp3.1\Northwind.WebAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Development\BackEnd\Northwind\NorthwindSolution\Northwind.WebAPI\obj\Debug\netcoreapp3.1\Northwind.WebAPI.RazorTargetAssemblyInfo.cache
 C:\Development\BackEnd\Northwind\NorthwindSolution\Northwind.WebAPI\obj\Debug\netcoreapp3.1\Northwind.WebAPI.csproj.CopyComplete
 C:\Development\BackEnd\Northwind\NorthwindSolution\Northwind.WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\Northwind.WebAPI.StaticWebAssets.Manifest.cache
@@ -35,3 +37,9 @@ C:\Development\BackEnd\Northwind\NorthwindSolution\Northwind.WebAPI\obj\Debug\ne
 C:\Development\BackEnd\Northwind\NorthwindSolution\Northwind.WebAPI\obj\Debug\netcoreapp3.1\Northwind.WebAPI.dll
 C:\Development\BackEnd\Northwind\NorthwindSolution\Northwind.WebAPI\obj\Debug\netcoreapp3.1\Northwind.WebAPI.pdb
 C:\Development\BackEnd\Northwind\NorthwindSolution\Northwind.WebAPI\obj\Debug\netcoreapp3.1\Northwind.WebAPI.genruntimeconfig.cache
+C:\Development\BackEnd\Northwind\NorthwindSolution\Northwind.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Development\BackEnd\Northwind\NorthwindSolution\Northwind.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Development\BackEnd\Northwind\NorthwindSolution\Northwind.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Development\BackEnd\Northwind\NorthwindSolution\Northwind.WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Development\BackEnd\Northwind\NorthwindSolution\Northwind.WebAPI\obj\Debug\netcoreapp3.1\Northwind.WebAPI.csproj.CoreCompileInputs.cache
+C:\Development\BackEnd\Northwind\NorthwindSolution\Northwind.WebAPI\obj\Debug\netcoreapp3.1\Northwind.WebAPI.MvcApplicationPartsAssemblyInfo.cache
